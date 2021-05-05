@@ -1,1 +1,2 @@
-adding a new file
+# display the outut
+pringt("new python")
